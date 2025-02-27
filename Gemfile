@@ -144,3 +144,5 @@ group :test do
   gem 'webmock'
   gem 'zonebie'
 end
+
+gem "argon2", "2.3.2"
